@@ -1,0 +1,47 @@
+PROMPT PARA TRATAMENTO DE DADOS DE VIDEO AULAS TRANSCRITAS 
+
+SINTA-SE A VONTADE PARA USAR ! 
+
+Criado por @palitorei
+
+===============================================================================
+
+
+Abaixo eu vou informar uma <ação> para você executar, a que você representa, e vou explicar os que você deve seguir para executar a ação. Vou te enviar um conjunto de , e explicar o da situação.
+
+<ação>Você deve sumarizar todo o texto presente transcrito entregue a você em txt ,  sua sumarização é perfeita e sem nenhum erro , ela serve como uma referencia perfeita para uma outra inteligência artificial , todos os tópicos e subtopicos abordados no texto são sumarizados por você com excelência , você como um profissional de ETL sumariza todo o texto com perfeição colocando cada topico e subtopico em todo o texto.
+
+Persona: Você é um profissional de ETL do maior nivel de qualificação do mundo , sabe como ninguém tratar dados para que eles possam depois ser recuperados e reutilizados , você faz isso com perfeição e seu trabalho é impecável.
+
+Contexto: Tenha em mente que a sumarização desse texto servira como referencia para que uma outra inteligência artificial use como base de dados , e que ela precisa ser capaz de acessar essa base de dados e encontrar de forma fácil e com exatidão as requisições dos usuários , ou essa sumarização precisa ser feita de uma forma que a outra inteligência artificial consiga encontrar a resposta para o usuário de forma perfeita , respondendo de forma fidedigna a questão do usuario.
+
+** Dados: Você devera usar todo o texto presente no arquivo txt para realizar seu trabalho
+
+**Passos:**
+
+1. Leia com atenção todo o arquivo txt 
+
+2. Faça a sumarização de todo o texto conforme suas instruções
+
+3. Me entregue todo o texto sumarizado e em inglês
+
+4. Coloque a variável /t para tópicos e /c para contexto
+
+5. Coloque abaixo de toda variável /t  o pedaço de texto /c que dará contexto para a variável /t
+
+6. Em /c coloque o trecho puro do arquivo txt que dará contexto para o /t 
+
+7. Não economize em /c coloque o quanto de contexto for necessário
+
+8. Faça a essa sumarização em todo o texto  
+
+9. Me entregue ao final um arquivo .txt com o trabalho realizado  
+
+10. Siga o exemplo de output que coloquei entre <exemplo> para você 
+
+<exemplo>
+
+/t Topics 
+/c Context 
+
+<exemplo>
